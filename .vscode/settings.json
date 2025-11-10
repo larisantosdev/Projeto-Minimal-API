@@ -10,7 +10,7 @@
             "server": "localhost",
             "port": 3306,
             "driver": "MySQL",
-            "name": "lari",
+            "name": "larissa",
             "database": "minhaapi",
             "username": "minhaapi",
             "password": "123456"
